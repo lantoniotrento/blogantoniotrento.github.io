@@ -16,14 +16,14 @@ author: 'Antonio Trento'
 nickname: officialtrento
 bio: 'Un naufrago del web approdato per condividere le sue conoscenze sul Web Marketing.'
 location: 'Milan, Italy'
-url: 'https://blogantoniotrento.github.io/blogantoniotrento/'
+url: 'https://blogantoniotrento.github.io'
 image: 'assets/images/author.jpg'
 
 short_url: 'blogantoniotrento.github.io'
 google_analytics:
 disqus: officialtrento
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: '/blogantoniotrento.github.io'
+baseurl: '/'
 
 # Permalinks
 permalink: /:title
@@ -59,8 +59,8 @@ lsi: false
 username: officialtrento
 repo: blogantoniotrento.github.io
 branch: master
-relative_source: ../jasper/
-destination: ../jasper-pages/
+relative_source: ../blogantoniotrento.github.io/
+destination: ../blogantoniotrento.github.io/
 production_url:  https://antfolio.github.io/
 source_url:      https://github.com/blogantoniotrento/blogantoniotrento.github.io/
 
