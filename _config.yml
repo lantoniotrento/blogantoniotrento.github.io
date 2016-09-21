@@ -4,11 +4,11 @@
 markdown: kramdown
 highlighter: rouge
 paginate: 5
-language: 'en-uk'
+language: 'eu-it'
 
 # Website info
 name: 'Blog di Antonio Trento'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+description: "Un naufrago del web approdato per condividere le sue conoscenze sul Web Marketing."
 
 # Author's info
 author: 'Antonio Trento'
@@ -56,8 +56,8 @@ exclude: [vendor]
 # or "master" otherwise
 safe: false
 lsi: false
-username: biomadeira
-repo: jasper
+username: officialtrento
+repo: blogantoniotrento.github.io
 branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
