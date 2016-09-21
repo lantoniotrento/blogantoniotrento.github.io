@@ -4,8 +4,8 @@ title:  "Benvenuto da Antonio"
 date:   2016-09-20 21:20:25
 categories: feature benvenuto
 tags: featured antoniotrento
-image: /assets/images/blog-background-mail.jpg
-image2: /assets/images/blog-background-mail.jpg
+image: /assets/article_images/benvenuto-sul-blog-di-antonio-trento/brown-idea.jpg
+image2: /assets/article_images/benvenuto-sul-blog-di-antonio-trento/brown-idea-mobile.jpg
 ---
 # Ben approdato sul blog di Antonio, è un piacere averti qui con me!!
 
