@@ -23,7 +23,7 @@ short_url: 'blogantoniotrento.github.io'
 google_analytics:
 disqus: officialtrento
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: '/blogantoniotrento'
+baseurl: '/'
 
 # Permalinks
 permalink: /:title
