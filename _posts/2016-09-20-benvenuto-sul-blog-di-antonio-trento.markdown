@@ -1,16 +1,13 @@
 ---
 layout: post
-cover: 'assets/images/blog-background-mail.jpg'
-title: Ben approdato sul blog di Antonio, è un piacere averti qui con me!!
-date:   2016-09-20 18:18:00
-tags: curiosita contenuto
-subclass: 'post tag-test tag-content'
-categories: 'curiosita'
-navigation: True
-logo: 'assets/images/author.png'
+title:  "Benvenuto da Antonio"
+date:   2016-09-20 21:20:25
+categories: feature benvenuto
+tags: featured antoniotrento
+image: /assets/article_images/2016-09-20-benvenuto-sul-blog-di-antonio-trento/background.JPG
+image2: /assets/article_images/2016-09-20-benvenuto-sul-blog-di-antonio-trento/background.JPG
 ---
-
-
+# Ben approdato sul blog di Antonio, è un piacere averti qui con me!!
 
 Questo blog è sviluppato in concomitanza di [antfolio](https://antfolio.github.io/ "Antfolio landing page e web marketing"), il servizio di realizzazione landing pages, siti web, blog, portfolio professionali per piccoli imprenditori, studenti o chiunque abbia bisogno di una presenza efficace su internet grazie alle molte strategie di marketing acquisite negli anni di studio.
 
@@ -43,6 +40,7 @@ Se te lo stai domandando probabilmente hai già letto molto sull'argomento e pen
 Tuttavia in Italia ho notato che poche persone de settore utilizzano strumenti pratici e professionali, ma preferiscono affidarsi hai CMS e allo sviluppo modulare, che si semplifica le procedure di sviluppo, ma appesantisce molto la struttura, fino a renderla superflua e contro producente su alcuni tipi di progetti..
 
 Se seguirai questo blog, ti rivelerò alcuni strumenti che, se sei un piccolo imprenditore, un professionista o uno studente, probabilmente riterrai opportuno utilizzarli anche tu per alcuni dei tuoi progetti!
+
 
 ## Quali competenze servono per aprire un blog?
 

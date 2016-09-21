@@ -1,75 +1,59 @@
-# Jykell configuration
-#markdown: redcarpet
-#highlighter: pygments
-markdown: kramdown
-highlighter: rouge
-paginate: 5
-language: 'eu-it'
+# Build settings
+gems:
+  - jemoji
+  - jekyll-paginate
 
-# Website info
-name: 'Blog di Antonio Trento'
-description: "Un naufrago del web approdato per condividere le sue conoscenze sul Web Marketing."
+# Site settings
+title: "Blog di Antonio Trento"
+description: > # this means to ignore newlines until "email:"
+   Un naufrago del web approdato per condividere le sue conoscenze sul Web Marketing
 
-# Author's info
+email: lantoniotrento@gmail.com
+#blog logo
+logo: "/assets/images/antonio-trento-logo-android-chrome-512x512.png"
+# blog cover
+cover: "/assets/images/blog-background-mail.jpg"
+
+name: 'Antonio Trento'
 author: 'Antonio Trento'
-# edit 'categories' in the front matter of every post to match this username
-nickname: officialtrento
-bio: 'Un naufrago del web approdato per condividere le sue conoscenze sul Web Marketing.'
-location: 'Milan, Italy'
-url: 'https://blogantoniotrento.github.io'
-image: 'assets/images/ghost.png'
+author_image: "/assets/images/author.jpg"
 
-short_url: 'blogantoniotrento.github.io'
-google_analytics:
+paginate:	5
+
+url: "https://tonblog.github.io" # the base hostname & protocol for your site
+baseurl: "/tonblog.github.io"
+#used to display twitter cards
+twitter_handle: '@officialtrento'
+
+#fill in disqus shortname to use disqus
 disqus: officialtrento
-# edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: '/'
 
-# Permalinks
-permalink: /:title
-# permalink: /author/:username
-# permalink: /tag/:tag
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/officialtrento
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
 
+  - icon:	facebook
+    url:	https://facebook.com/officialtrento
+    desc: Connect with me facebook
+    share_url: https://www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
 
-# gems and other configs
-gems: [jekyll-paginate]
-exclude: [vendor]
+  - icon:	github
+    url:	https://github.com/antoniotrento
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
 
-# Additional settings available on the front-matter
-# Site logo in the index.html (as in demo.ghost.io)
-# Author's page cover in _layouts/author.html
-# The same for page.html and tag.html layouts
-# Post's page cover as a per-post basis _posts/...
-# Disqus comments as a per-post basis
-# ...
-
-
-# Settings for builing master branch with travis-ci
-# with jekyll-travis
-
-# Settings for deploy rake task
-# Username and repo of Github repo, e.g.
-# https://github.com/USERNAME/REPO.git
-# username defaults to ENV['GIT_NAME'] used by Travis
-# repo defaults to USERNAME.github.io
-# Branch defaults to "source" for USERNAME.github.io
-# or "master" otherwise
-safe: false
-lsi: false
-username: officialtrento
-repo: blogantoniotrento.github.io
-branch: master
-relative_source: ../blogantoniotrento.github.io/
-destination: ../blogantoniotrento.github.io/
-production_url:  https://antfolio.github.io/
-source_url:      https://github.com/blogantoniotrento/blogantoniotrento.github.io/
-
-exclude:
-  - README.md
-  - Rakefile
-  - Gemfile
-  - Gemfile.lock
-  - changelog.md
-  - "*.Rmd"
-  - vendor
-  - .travis.yml
+  - icon:	google-plus
+    url:	https://plus.google.com/+AntoniotrentoIt
+    desc:	Add me on google+
+    share_url:
+    share_title:
+    share_link:
