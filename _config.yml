@@ -15,9 +15,9 @@ author: 'Antonio Trento'
 # edit 'categories' in the front matter of every post to match this username
 nickname: officialtrento
 bio: 'Un naufrago del web approdato per condividere le sue conoscenze sul Web Marketing.'
-location: 'Maine, USA'
+location: 'Milan, Italy'
 url: 'https://blogantoniotrento.github.io'
-image: 'assets/images/casper.png'
+image: 'assets/images/author.jpg'
 
 short_url: 'blogantoniotrento.github.io'
 google_analytics:

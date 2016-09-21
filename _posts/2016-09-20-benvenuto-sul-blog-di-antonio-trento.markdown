@@ -1,7 +1,7 @@
 ---
 layout: post
-cover: 'assets/images/blog-background1.jpg'
-title: A Full and Comprehensive Style Test
+cover: 'assets/images/blog_background.jpg'
+title: Ben approdato sul blog di Antonio, è un piacere averti qui con me!!
 date:   2016-09-20 18:18:00
 tags: curiosita contenuto
 subclass: 'post tag-test tag-content'
@@ -10,7 +10,7 @@ navigation: True
 logo: 'assets/images/author.png'
 ---
 
-# Ben approdato sul blog di Antonio, è un piacere averti qui con me!!
+
 
 Questo blog è sviluppato in concomitanza di [antfolio](https://antfolio.github.io/ "Antfolio landing page e web marketing"), il servizio di realizzazione landing pages, siti web, blog, portfolio professionali per piccoli imprenditori, studenti o chiunque abbia bisogno di una presenza efficace su internet grazie alle molte strategie di marketing acquisite negli anni di studio.
 
