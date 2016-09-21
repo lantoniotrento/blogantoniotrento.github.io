@@ -1,6 +1,6 @@
 # Build settings
 gems:
-  - jemoji
+  #- jemoji
   - jekyll-paginate
 
 # Site settings
@@ -20,8 +20,8 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "https://tonblog.github.io" # the base hostname & protocol for your site
-baseurl: "/tonblog.github.io"
+url: "https://blogantoniotrento.github.io" # the base hostname & protocol for your site
+baseurl: "/blogantoniotrento.github.io"
 #used to display twitter cards
 twitter_handle: '@officialtrento'
 
