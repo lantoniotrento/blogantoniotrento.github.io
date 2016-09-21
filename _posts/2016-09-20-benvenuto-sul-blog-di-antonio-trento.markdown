@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: 'assets/images/blog_background.jpg'
+cover: 'assets/images/blog-background-mail.jpg'
 title: Ben approdato sul blog di Antonio, è un piacere averti qui con me!!
 date:   2016-09-20 18:18:00
 tags: curiosita contenuto
