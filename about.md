@@ -139,4 +139,6 @@ Sviluppare il tuo Business su Internet da zero.. Ma da dove iniziare?
 
 Il tuo ebook GRATUITO che ti svelerà gli strumenti dei quali non potrai fare a meno per sviluppare il tuo sito web e farlo esplodere in poco tempo!
 
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator)
+# Il mio CV
+
+Se ti interessa comprendere di più le mie competenze ti invito a scaricare [il mio curriculum](https://rebrand.ly/cvantonio) e eventualmente anche presentarlo a qualcuno tu sappia abbia bisogno di una figura professionale come la mia.
