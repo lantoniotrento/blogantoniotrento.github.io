@@ -4,7 +4,9 @@ title: Chi Sono
 image: /assets/article_images/2016-09-20-benvenuto-sul-blog-di-antonio-trento/brown-idea.jpg
 permalink: /about/
 ---
+
 # Antonio Trento
+
 Ho alle spalle studi di informatica e da qualche anno mi sono interessato alle tecniche web marketing, allo sviluppo di siti web in WordPress e le sfaccettature di questa professione, fino ad arrivare alla conclusione di dover sviluppare il mio blog ed archiviare tutte quelle tecniche SEO, SEMe Social media marketing, più rilevanti al fine di incrementare da potenza di fuoco del proprio business su web, l’autorità e notorietà nella rete di internet del tuo brand o della tua immagine e l’acquisizione di nuovi contatti lavorativi ed audience (lead generation).
 
 Come molti di voi (almeno suppongo), sono un’autodidatta - tutti i giorni scendo in campo sperimentando e testando nuove strategie per indirizzare il traffico, ottenere leads e convertirli in clienti fedeli e paganti. Lungo il mio percorso, ho imparato parecchio e ho intenzione di condividere tutto con te qui su questo blog.
