@@ -2,6 +2,7 @@
 layout: page
 title: Chi Sono
 image: /assets/article_images/2016-09-20-benvenuto-sul-blog-di-antonio-trento/brown-idea.jpg
+image2: /assets/article_images/2016-09-20-benvenuto-sul-blog-di-antonio-trento/brown-idea-mobile.jpg
 permalink: /about/
 ---
 
