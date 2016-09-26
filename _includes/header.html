@@ -13,6 +13,9 @@
     <a href="#">Contact</a>
   </div>-->
   <div class="custom-links overlay-content">
+    <a href="/about/">About</a>
+
+    <a href="https://rebrand.ly/folio">Servizi</a>
     {% for social in site.social %}
       {% if social.url %}
           <a class="icon-{{ social.icon }}" href="{{ social.url }}" {% if social.desc %} title="{{ social.desc }}"{% endif %}">
@@ -21,9 +24,7 @@
 
       {% endif %}
     {% endfor %}
-    <a href="/about/">About</a>
-    
-    <a href="https://rebrand.ly/folio">Servizi</a>
+
   </div>
 </div>
 
