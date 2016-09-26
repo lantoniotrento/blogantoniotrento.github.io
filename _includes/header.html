@@ -5,14 +5,26 @@
   <!-- Button to close the overlay navigation -->
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
 
-  <!-- Overlay content -->
+  <!-- Overlay content
   <div class="overlay-content">
     <a href="#">About</a>
     <a href="#">Services</a>
     <a href="#">Clients</a>
     <a href="#">Contact</a>
+  </div>-->
+  <div class="custom-links overlay-content">
+    {% for social in site.social %}
+      {% if social.url %}
+          <a class="icon-{{ social.icon }}" href="{{ social.url }}" {% if social.desc %} title="{{ social.desc }}"{% endif %}">
+            <i class="fa fa-{{ social.icon }}"></i>
+          </a>
+          &nbsp;&nbsp;·&nbsp;&nbsp;
+      {% endif %}
+    {% endfor %}
+    <a href="/about/">About</a>
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="https://rebrand.ly/folio">Servizi</a>
   </div>
-
 </div>
 
 <!-- Use any element to open/show the overlay navigation menu -->
