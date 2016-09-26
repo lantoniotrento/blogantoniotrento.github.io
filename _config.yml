@@ -23,7 +23,7 @@ paginate:	5
 url: "https://blogantoniotrento.github.io" # the base hostname & protocol for your site
 baseurl: "/blogantoniotrento.github.io"
 #used to display twitter cards
-twitter_handle: '@officialtrento'
+twitter_handle: '@lantoniotrento'
 
 #fill in disqus shortname to use disqus
 disqus: http-blogantoniotrento-github-io
