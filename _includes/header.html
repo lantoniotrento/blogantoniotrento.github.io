@@ -11,14 +11,16 @@
     <a href="#">Services</a>
     <a href="#">Clients</a>
     <a href="#">Contact</a>
-  </div>-->
+  </div> -->
   <div class="custom-links overlay-content">
+
     <a href="/about/">About</a>
 
     <a href="https://rebrand.ly/folio">Servizi</a>
+
     {% for social in site.social %}
       {% if social.url %}
-          <a class="icon-{{ social.icon }}" href="{{ social.url }}" {% if social.desc %} title="{{ social.desc }}"{% endif %}">
+          <a class="icon-{{ social.icon }}" href="{{ social.url }}" {% if social.desc %} title="{{ social.desc }}"{% endif %}>
             <i class="fa fa-{{ social.icon }}"></i>
           </a>
 
@@ -31,6 +33,7 @@
 <!-- Use any element to open/show the overlay navigation menu -->
 
 <a href="#" onclick="openNav()" class="logo-readium"><span span class="logo" style="background-image: url({{ site.url }}/assets/images/home-page.png)"></span></a>
+
 <!-- <a href="{{ site.url }}" class="logo-readium"><span class="logo" style="background-image: url({{ site.url }}/assets/images/home-page.png)"></span></a> -->
 
 <!-- header end -->
