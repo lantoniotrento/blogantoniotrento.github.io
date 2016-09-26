@@ -9,7 +9,7 @@
 
     var $window = $(window),
     $image = $('.post-image-image, .teaserimage-image');
-    
+
       $window.on('scroll', function() {
         var top = $window.scrollTop();
 
@@ -39,3 +39,14 @@
 }(jQuery));
 </script>
 
+<!-- MODIFICHE MENU FULL SCREEN ANTONIO -->
+<script>
+function openNav() {
+    document.getElementById("myNav").style.width = "100%";
+}
+
+function closeNav() {
+    document.getElementById("myNav").style.width = "0%";
+}
+</script>
+<!-- FINE MODIFICHE MENU FULL SCREEN ANTONIO -->
