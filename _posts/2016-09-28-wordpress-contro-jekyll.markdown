@@ -20,7 +20,7 @@ Non che non mi sia preparato per questo genere di problemi, ho installato W3 Tot
 
 Certo, ma non abbastanza, *i risultati non mi hanno mai soddisfatto appieno guardando i rapporti qualità prezzo*, così quando ho chiuso quel blog ho deciso di rinunciare al vantaggio principale di wordpress, essere in grado di pubblicare contenuti in modo rapido, decidendo di guardare altrove.
 
-#### Dopo attente ricerche su web ho scoperto un prodotto interessantissimo: Jekyll.
+#### Dopo attente ricerche su web ho scoperto un prodotto interessantissimo: [Jekyll](https://jekyllrb.com/).
 
 ## Jekyll è esattamente quello che mi serviva!
 
@@ -28,7 +28,7 @@ Un generatore di **blog statico**. Ciò significa che, invece di installare soft
 
 Quindi caricare i file generati da qualsiasi server web e, beh, questo è il tuo blog.
 
->Anche se **Jekyll** potrebbe sembrare semplicemente una geniale alternativa a WordPress, questo approccio statico ha una serie di vantaggi reali su WordPress.
+>Anche se [**Jekyll**](https://jekyllrb.com/) potrebbe sembrare semplicemente una geniale alternativa a WordPress, questo approccio statico ha una serie di vantaggi reali su WordPress.
 
 # Per progetti web con strutture semplici Jekyll è meglio di Wordpress
 
