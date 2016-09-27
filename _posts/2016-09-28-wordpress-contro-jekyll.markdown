@@ -111,6 +111,4 @@ Per tagliare ulteriormente i costi, potresti ospitare il tuo blog su Amazon S3. 
 
 ### Test E' tutta questione di prospettiva, tipo di progetto, budget e conoscenze tecniche.
 
-## E' tutta questione di prospettiva, tipo di progetto, budget e conoscenze tecniche.
-
 >Se ti è piaciuto l’articolo ti sarei grato se lo condividessi qui sotto, è un piccolo sforzo per te ed un grande aiuto per entrambi perchè mi permetterai di avere un feedback per eventuali nuovi articoli :)
