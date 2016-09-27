@@ -17,16 +17,16 @@ Alcuni miei colleghi Blogger lo osannano come il migliore strumento per creare u
 
 Senza nulla togliere a Wordpress (lo utilizzo anche io se il progetto ha un certo tipo di struttura), vorrei farti notare perché potrebbe non essere la scelta più adatta al tuo progetto:
 
-## **#1Occupa molte risorse hardware dell'host:**
+## **#1 Occupa molte risorse hardware dell'host:**
 Quando un blog wordpress è installato su host quest'ultimo sarà sovraccarico di lavoro causa la struttura complessa del CMS, quindi le elaborazioni risulteranno molto più lente a confronto di un sito in html statico
 
-## **#2Il vantaggio della modularità diverrà uno svantaggio:**
+## **#2 Il vantaggio della modularità diverrà uno svantaggio:**
 É bello poter installare una funzione aggiuntiva con un paio di click ma diverrà un grosso problema quando quella funzione verrà deprecata dalla casa madre o non verranno sviluppati gli aggiornamenti di sicurezza a quest'ultima; nel tempo potresti trovarti costretto a chiamare un developer per mettere mano al codice del componente o addirittura a perdere il controllo del tuo sito perché attaccato da haters.
 
-## **#3Quando vorrai ampliare il tuo sito web alla fine dei conti avrai bisogno del developer:**
+## **#3 Quando vorrai ampliare il tuo sito web alla fine dei conti avrai bisogno del developer:**
 Nonostante wordpress abbia tutti gli strumenti per poter operare con un blog o sito web, se nel tempo una volta affermata la tua immagine avrai sempre più bisogno di un immagine elegante ed unica, wordpress può offrire una serie di layout predefiniti che staranno stretti ad un'attività professionale rendendo necessaria la modifica della struttura a un livello più tecnico.
 
-## **#4I plugin veramente utili e funzionali sono poi alla fine a pagamento:**
+## **#4 I plugin veramente utili e funzionali sono poi alla fine a pagamento:**
 Anche quelli che sembrano gratuiti, per avere una membership con tutti gli strumenti disponibili sarai costretto ad effettuare un pagamento di conseguenza alla fine dei conti non conviene poi molto utilizzare questi plugin.
 
 ## **#5 Temi gratis o premium:**
