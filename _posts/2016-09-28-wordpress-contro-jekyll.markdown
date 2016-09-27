@@ -20,6 +20,7 @@ Non che non mi sia preparato per questo genere di problemi, ho installato W3 Tot
 
 Certo, ma non abbastanza, *i risultati non mi hanno mai soddisfatto appieno guardando i rapporti qualità prezzo*, così quando ho chiuso quel blog ho deciso di rinunciare al vantaggio principale di wordpress, essere in grado di pubblicare contenuti in modo rapido, decidendo di guardare altrove.
 
+#### Dopo attente ricerche su web ho scoperto un prodotto interessantissimo: Jekyll.
 #### *Dopo attente ricerche su web ho scoperto un prodotto interessantissimo: Jekyll.*
 
 ## Jekyll è esattamente quello che mi serviva!
