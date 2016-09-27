@@ -5,6 +5,10 @@ image: /assets/article_images/2016-09-20-benvenuto-sul-blog-di-antonio-trento/br
 image2: /assets/article_images/2016-09-20-benvenuto-sul-blog-di-antonio-trento/brown-idea-mobile.jpg
 permalink: /tools-per-web-marketing/
 ---
+Ciao e benvenuto da [Antonio](/about/) e ho creato questa pagina per condividere con te le mie ultime scoperte per effettuare al meglio web marketing per il tuo business su web.
+
+Qui ho raccolto per te, tutti gli strumenti che reputo utili per iniziare un business su web, 
+
 
 In questa pagina descrivo tutti i vari strumenti che uso per progettare, costruire e realizzare campagne di marketing on-line sia per i progetti personali che per clienti. Io personalmente uso ciascuno di questi strumenti ogni volta che mi siedo al mio posto di lavoro.
 
@@ -14,21 +18,24 @@ Aggiornerò questa pagina periodicamente per includere nuovi strumenti che ho pr
 
 Qui di seguito troverete l’indice dei contenuti per spostarti rapidamente a sezioni specifiche di interesse.
 
-- Hosting
-- Landing Pages
+- Hosting (digital ocean amazon aws)
+- Landing Pages e blog (Jekyll)
 - SEO
-- Email & costruzione della lista
+- Email & costruzione della tua lista contatti
 - La promozione dei contenuti (content marketing)
 
 L'azienda di hosting consigliata
 
 Ci sono un sacco di società che offrono servizi di hosting; la scelta ricade solo dopo aver valutato alcuni fattori: posizione geografica, tipo di business online, efficienza del sito e competenze tecniche per implementazione dello stesso.
+
 Se sei all'inizio, scegliere un buon provider di hosting si rivelerà essenziale ai fini di un sano sviluppo del business.
 
 SiteGround
 
 Io uso SiteGround per quasi ogni sito web che ho sviluppato.
-Perché? Perché è incredibilmente facile da usare, con 1 clic posso installare WordPress in automatico. Il servizio clienti è eccellente - sia il telefono che chat di supporto (in inglese). E’ l'hosting provider più performante sul mercato in rapporto qualità/prezzo/semplicità di utilizzo. SiteGround mette anche a disposizione un servizio di hosting e-mail che è molto utile.
+Perché? Perché è incredibilmente facile da usare, con 1 clic posso installare WordPress in automatico.
+
+Il servizio clienti è eccellente - sia il telefono che chat di supporto (in inglese). E’ l'hosting provider più performante sul mercato in rapporto qualità/prezzo/semplicità di utilizzo. SiteGround mette anche a disposizione un servizio di hosting e-mail che è molto utile.
 
 È inoltre possibile utilizzare lo stesso account di hosting per più domini, se hai intenzione di creare più siti web. Questa è una grande soluzione di hosting condiviso, conveniente per i siti web di piccole dimensioni.
 
