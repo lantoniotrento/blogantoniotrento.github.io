@@ -77,7 +77,7 @@ Pensa che questo blog, *ospitato gratuitamente* da **github carica a velocità f
 
 ## #4 WordPress è un obiettivo sempre più succulento per gli hacker.
 
->Più è popolare un software diventa, più diventa un bersaglio probabile di hacker maleintenzionati. Questo significa che installare il WordPress è una bomba a orologeria e che qualcuno inevitabilmente si divertirà con essa? No.
+>Più è popolare un software diventa, più diventa un probabile bersaglio per hacker e maleintenzionati. Questo significa che installare il WordPress è una bomba a orologeria e che qualcuno inevitabilmente si divertirà con essa? No.
 
 Nei miei anni di attività posso ricordare solo una falla importante nella storia della sicurezza di wordpress. Ed i problemi seri si presentano solo se non si aggiorna regolarmente il CMS appena uscito gli aggiornamenti. Inoltre con i molti plugin di sicurezza possiamo dire di stare tranquilli.
 
