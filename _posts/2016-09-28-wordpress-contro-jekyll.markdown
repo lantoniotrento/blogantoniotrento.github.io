@@ -35,7 +35,7 @@ Quindi caricare i file generati da qualsiasi server web e, beh, questo è il tuo
 
 ## #1 WordPress è eccessivo.
 
-Ad oggi Wordpress è il CMS di gestione contenuti più vasto che ci sia. Puoi fare quasi tutto con esso, da un e-commerce a un piccolo social network. È un ottimo prodotto ma si è evoluto molto più di quel che erano le sue radici e funzioni, e ne possiede troppe molte più di quel che hi bisogno per un semplice blog.
+Ad oggi Wordpress è il CMS di gestione contenuti più vasto che ci sia. Puoi fare quasi tutto con esso, da un e-commerce a un piccolo social network. È un ottimo prodotto ma si è evoluto molto più di quel che erano le sue radici e funzioni, e ne possiede troppe molte più di quel che hai bisogno per un semplice blog.
 
 >Jekyll, in confronto, è una piattaforma di blogging pura. Per alcuni, questo obiettivo sarà limitante, ma se si desidera creare un sito solo per eseguire un blog, e delle landing page promozionali, Jekyll offre tutto il necessario.
 
@@ -49,7 +49,7 @@ Lo strumento "migliore" dipende sempre dal contesto, dal tipo di progetto da svi
 
 Pochi mesi dopo il lancio di un mio blog, un aumento del traffico ha visto centinaia di persone riversarsi contemporaneamente tra le pagine del mio blog.
 
-Pensavo a questo... Il mio duro lavoro sta dando i suoi frutti! Poi il blog, proprio grazie all'eccessivo traffico, ha crashato e rimasto tale per le successive ore, nelle quali i lettori provavano ad accedere e ricevevano un errore dal mio hosting. Una brutta figura che mi ha fatto apparire come dilettante e fatto sprecare un mucchio di tempo e risorse senza raggiungere i risultati desiderati.
+Pensavo a questo... Il mio duro lavoro sta dando i suoi frutti! Poi il blog, proprio grazie all'eccessivo traffico, **è andato ub cras e rimasto tale per le successive ore**, nelle quali i lettori provavano ad accedere e ricevevano un errore dal mio hosting. Una brutta figura che mi ha fatto apparire come dilettante e fatto sprecare un mucchio di tempo e risorse senza raggiungere i risultati desiderati.
 
 >Naturalmente, **WordPress non è l'unica applicazione lato server che potrebbe avere problemi quando si riceve una grande quantità di traffico,** ma ci sono in giro un bel po' di storie di blog WordPress che vanno in crash proprio nel momento sbagliato - anche con tutte le corrette ottimizzazioni - e non c'è niente di più sciocco di doversi preoccupare di tecnicismi per il  blog quando esso diventa popolare.
 
