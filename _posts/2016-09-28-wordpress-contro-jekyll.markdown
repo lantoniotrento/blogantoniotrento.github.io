@@ -63,7 +63,7 @@ Forse il tuo blog non è ancora abbastanza popolare perché vada in crash, oppur
 Le stesse ragioni per le quali WordPress da problemi sotto carico, sono da imputare anche al fatto che è lento: ed è anche normale, perché basa la sua struttura su chiamate di codice e database dinamici.
 Si può riuscire a rendere più veloce wordpress, grazie a delle ottimizzazioni a livello di codice, ma è come cercare di far andare veloce una tartaruga, non è nella sua natura.
 
->**Ottimizzare un blog Jekyll, d'altra parte, è facile e puoi:**
+**Ottimizzare un blog Jekyll, d'altra parte, è facile e puoi:**
 
 > 1. *Ospitare la struttura Jekyll su un server nginx*
 > 2. *Puoi minimizzare il codice HTML e CSS senza appositi plugin il tutto è integrato di default*
@@ -109,6 +109,6 @@ Per tagliare ulteriormente i costi, potresti ospitare il tuo blog su Amazon S3. 
 
 **Non voglio spingere Jekyll per il gusto di farlo.** Tuttavia, credo che un sacco di blogger (e un sacco di lettori di blog) ne gioverebbero molto sia in termini di SEO che in termini di usabilità, velocità e gradevolezza di navigazione del proprio sito passando da un prodotto dinamico ad uno statico.
 
-### *È tutta questione di prospettiva: tipo di progetto, budget e conoscenze tecniche.*
+### È tutta questione di prospettiva: tipo di progetto, budget e conoscenze tecniche.
 
 >Se ti è piaciuto l’articolo ti sarei grato se lo condividessi qui sotto, è un piccolo sforzo per te ed un grande aiuto per entrambi perchè mi permetterai di avere un feedback per eventuali nuovi articoli :)
