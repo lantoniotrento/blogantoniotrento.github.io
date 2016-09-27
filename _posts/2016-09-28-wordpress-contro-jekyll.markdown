@@ -40,7 +40,7 @@ Ad oggi Wordpress è il CMS di gestione contenuti più vasto che ci sia. Puoi fa
 
 Un esperienza di scrittura è senza pari, poiché il contenuto è costruito con i file Markdown, ed è possibile utilizzare qualsiasi editor di testo per creare i tuoi contenuti, lavorare e testare le modifiche in locale per poi effettuare l'upload delle stesse quando regolate a puntino.
 
-*Personalmente, io uso** ***Atom*** *sia per scrivere codice che i miei post, ma qualsiasi altra opzione va bene.*
+*Personalmente, io uso* ***Atom*** *sia per scrivere codice che i miei post, ma qualsiasi altra opzione va bene.*
 
 Lo strumento "migliore" dipende sempre dal contesto, dal tipo di progetto da sviluppare, ma, sempre più, penso che una piattaforma semplice come *Jekyll sia degna di essere considerata tra le prime opzioni per un blog personale o una struttura di mini siti pubblicitari.*
 
