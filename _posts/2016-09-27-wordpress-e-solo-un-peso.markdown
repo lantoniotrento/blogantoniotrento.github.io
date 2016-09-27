@@ -27,7 +27,7 @@ Senza nulla togliere a Wordpress (lo utilizzo anche io se il progetto ha un cert
 
 5. I temi, cioè le vesti grafiche, sono svariati ed anche gratuiti, tra loro solo pochi di questi sono efficaci per **progettare a livello professionale**, il che rende necessario per il futuro premunirsi con l’acquisto di un tema fatto da professionisti, la quale assistenza costerà in base alla qualità del tema, alla lunga non ti sembrerà poi tanto conveniente.
 
-### *"Dopo aver studiato Wordpress e le sue innumerevoli applicazioni ho notato che per le mie esigenze era un prodotto troppo vasto, lo vedevo come un inutile spreco di risorse"*
+### "Dopo aver studiato Wordpress e le sue innumerevoli applicazioni ho notato che per le mie esigenze era un prodotto troppo vasto, lo vedevo come un inutile spreco di risorse"
 
 In fondo a me sarebbe bastato un blog personale e qualche pagina promozionale.. Wordpress sarebbe utile e semplice da implementare, ma non posseggo le risorse economiche di una testata giornalistica per acquistare le risorse hardware necessarie per **mantenere il sito attivo avendo molti visitatori online contemporaneamente.**
 
