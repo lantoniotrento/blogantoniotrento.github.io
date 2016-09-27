@@ -109,6 +109,6 @@ Per tagliare ulteriormente i costi, potresti ospitare il tuo blog su Amazon S3. 
 
 **Non voglio spingere Jekyll per il gusto di farlo.** Tuttavia, credo che un sacco di blogger (e un sacco di lettori di blog) ne gioverebbero molto sia in termini di SEO che in termini di usabilità, velocità e gradevolezza di navigazione del proprio sito passando da un prodotto dinamico ad uno statico.
 
-### E' tutta questione di prospettiva: tipo di progetto, budget e conoscenze tecniche.
+### E' tutta questione di prospettiva, tipo di progetto, budget e conoscenze tecniche.
 
 >Se ti è piaciuto l’articolo ti sarei grato se lo condividessi qui sotto, è un piccolo sforzo per te ed un grande aiuto per entrambi perchè mi permetterai di avere un feedback per eventuali nuovi articoli :)
