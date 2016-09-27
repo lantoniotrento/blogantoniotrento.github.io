@@ -2,8 +2,8 @@
 layout: post
 title:  "Jekyll vs. Wordpress la formica che batte il colosso"
 date:   2016-09-28 3:20:25
-categories: feature wordpress jekyll
-tags: featured wordpress blog jekyll blog
+categories: wordpress
+tags: wordpress jekyll blog
 image: /assets/article_images/2016-09-28-wordpress-contro-jekyll/wordpress-vs-jekyll-boxe.jpg
 image2: /assets/article_images/2016-09-28-wordpress-contro-jekyll/wordpress-vs-jekyll-boxe-mobile2.jpg
 ---
