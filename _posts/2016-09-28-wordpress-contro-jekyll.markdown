@@ -13,7 +13,7 @@ Ho usato Wordpress per gli ultimi 4 anni o più e, lungo il tragitto, è stato u
 
 > *- Un blog in wordpress a pieno carico va molto lento*
 > *- La cache non funziona come dovrebbe*
-> *- Sono stato infettato da malware*
+ *- Sono stato infettato da malware*
 
 Non che non mi sia preparato per questo genere di problemi, ho installato W3 Total Cache, aggiornato l'hosting con un piano adeguato al mio traffico, installati plugin per tutelare la sicurezza del mio sito e seguito alla lettera le "best practice".
 
@@ -78,7 +78,7 @@ Pensa che questo blog, *ospitato gratuitamente* da **github carica a velocità f
 
 ## #4 WordPress è un obiettivo sempre più succulento per gli hacker.
 
->Più è popolare un software diventa, più diventa un probabile bersaglio per hacker e maleintenzionati. Questo significa che installare il WordPress è una bomba a orologeria e che qualcuno inevitabilmente si divertirà con essa? No.
+>Più è popolare un software diventa, più diventa un probabile bersaglio per hacker e maleintenzionati. Questo significa che installare il WordPress è una bomba a orologeria e che qualcuno inevitabilmente si divertirà con essa? No?
 
 Nei miei anni di attività posso ricordare solo una falla importante nella storia della sicurezza di wordpress. Ed i problemi seri si presentano solo se non si aggiorna regolarmente il CMS appena uscito gli aggiornamenti. Inoltre con i molti plugin di sicurezza possiamo dire di stare tranquilli.
 
