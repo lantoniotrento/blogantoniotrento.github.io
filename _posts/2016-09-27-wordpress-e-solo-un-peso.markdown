@@ -7,15 +7,19 @@ tags: featured wordpress blog
 image: /assets/article_images/2016-09-20-benvenuto-sul-blog-di-antonio-trento/brown-idea.jpg
 image2: /assets/article_images/2016-09-20-benvenuto-sul-blog-di-antonio-trento/brown-idea-mobile.jpg
 ---
-Che tu sia un piccolo/medio imprenditore, libero professionista o uno studente, a mio avviso, dovresti avere un'immagine su web. Cercando su internet incapperai in servizi opinabili che ti promettono un sito web completo con poco sforzo a basso costo.
+Che tu sia un piccolo/medio imprenditore, libero professionista o uno studente, a mio avviso, dovresti avere un'immagine su web.
 
-Ecco, non fidarti! Su web non esistono scorciatoie è necessario seguire un percorso ben preciso e operare con strumenti professionali che non lascino nulla al caso e effettuare specifiche azioni atte ad aumentare la tua visibilità, la quale è direttamente correlata alla qualità e usabilità della piattaforma che sta sotto (sito web o blog).
+Cercando su internet incapperai in servizi opinabili che ti promettono un sito web completo con poco sforzo a basso costo.
+
+>Ecco, non fidarti! Su web non esistono scorciatoie è necessario seguire un percorso ben preciso e operare con strumenti professionali che non lascino nulla al caso e effettuare specifiche azioni atte ad aumentare la tua visibilità, la quale è direttamente correlata alla qualità e usabilità della piattaforma che sta sotto (sito web o blog).
 
 Ti sarà anche capitato, dato che è molto in voga negli ultimi anni, di approdare su blog che trattano un [CMS](https://it.wikipedia.org/wiki/Content_management_system) di nome *[Wordpress](https://it.wordpress.org/)*
 
-Alcuni miei colleghi Blogger lo osannano come il migliore strumento per creare un sito web, blog di qualsiasi tipo e dimensione, **lo strumento gratis per fare business online**, ma in realtà viene così osannato *perché è lo strumento più semplice da utilizzare nell'ambito*, grazie alla sua modularità e facilità di espansione tramite plugin, di conseguenza, risulta anche il più semplice da promuovere riuscendo a coinvolgere un pubblico maggiore, *promuovendo un sistema CMS studiato per essere utilizzato anche da personale non di settore*, dando la possibilità al marketer di coprire una fetta di mercato maggiore.
+Alcuni miei colleghi Blogger lo osannano come il migliore strumento per creare un sito web, blog di qualsiasi tipo e dimensione, **lo strumento gratis per fare business online**, ma in realtà viene così osannato *perché è lo strumento più semplice da utilizzare nell'ambito*.
 
-Senza nulla togliere a Wordpress (lo utilizzo anche io se il progetto ha un certo tipo di struttura), vorrei farti notare perché potrebbe non essere la scelta più adatta al tuo progetto:
+Grazie alla sua modularità e facilità di espansione tramite plugin, di conseguenza, risulta anche il più semplice da promuovere riuscendo a coinvolgere un pubblico maggiore, *promuovendo un sistema CMS studiato per essere utilizzato anche da personale non di settore*, dando la possibilità al marketer di coprire una fetta di mercato maggiore.
+
+Senza nulla togliere a Wordpress (lo utilizzo anche io se il progetto ha un certo tipo di struttura), vorrei farti notare perché potrebbe **non essere la scelta più adatta al tuo progetto:**
 ## **#1 Occupa molte risorse hardware dell'host:**
 Quando un blog wordpress è installato su host quest'ultimo sarà sovraccarico di lavoro causa la struttura complessa del CMS, quindi le elaborazioni risulteranno molto più lente a confronto di un sito in html statico
 ## **#2 Il vantaggio della modularità diverrà uno svantaggio:**
