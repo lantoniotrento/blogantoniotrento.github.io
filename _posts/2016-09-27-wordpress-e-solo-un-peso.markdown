@@ -5,7 +5,7 @@ date:   2016-09-27 23:20:25
 categories: feature wordpress
 tags: featured wordpress blog
 image: /assets/article_images/2016-09-27-wordpress-e-solo-un-peso/ancora-blog.jpg
-image2: /assets/article_images/2016-09-27-wordpress-e-solo-un-peso/ancora-blog-mobile.jpg
+image2: /assets/article_images/2016-09-27-wordpress-e-solo-un-peso/ancora-blog-mobile2.jpg
 ---
 Che tu sia un piccolo/medio imprenditore, libero professionista o uno studente, a mio avviso, dovresti avere un'immagine su web.
 
