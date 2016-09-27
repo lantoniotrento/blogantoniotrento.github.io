@@ -5,7 +5,7 @@ date:   2016-09-28 3:20:25
 categories: feature wordpress jekyll
 tags: featured wordpress blog jekyll blog
 image: /assets/article_images/2016-09-28-wordpress-contro-jekyll/wordpress-vs-jekyll-boxe.jpg
-image2: /assets/article_images/2016-09-28-wordpress-contro-jekyll/wordpress-vs-jekyll-boxe-mobile.jpg
+image2: /assets/article_images/2016-09-28-wordpress-contro-jekyll/wordpress-vs-jekyll-boxe-mobile2.jpg
 ---
 Ho usato Wordpress per gli ultimi 4 anni o più e, lungo il tragitto, è stato un buon compagno. Purtroppo è ancora molto lontano dall'essere perfetto.
 
