@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Perché creare un blog in wordpress è diventato solo un peso"
-date:   2016-09-20 21:20:25
+date:   2016-09-27 23:20:25
 categories: feature wordpress
 tags: featured wordpress blog
 image: /assets/article_images/2016-09-20-benvenuto-sul-blog-di-antonio-trento/brown-idea.jpg
