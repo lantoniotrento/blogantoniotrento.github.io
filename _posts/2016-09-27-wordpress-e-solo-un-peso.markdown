@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Perché creare un semplice blog in wordpress è diventato solo un peso"
+title:  "Perché creare un blog in wordpress è diventato solo un peso"
 date:   2016-09-20 21:20:25
 categories: feature wordpress
 tags: featured wordpress blog
