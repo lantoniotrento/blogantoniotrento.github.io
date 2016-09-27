@@ -50,7 +50,7 @@ Pochi mesi dopo il lancio di un mio blog, un aumento del traffico ha visto centi
 
 Pensavo a questo... Il mio duro lavoro sta dando i suoi frutti! Poi il blog, proprio grazie all'eccessivo traffico, ha crashato e rimasto tale per le successive ore, nelle quali i lettori provavano ad accedere e ricevevano un errore dal mio hosting. Una brutta figura che mi ha fatto apparire come dilettante e fatto sprecare un mucchio di tempo e risorse senza raggiungere i risultati desiderati.
 
-Naturalmente, WordPress non è l'unica applicazione lato server che potrebbe avere problemi quando si riceve una grande quantità di traffico, ma ci sono in giro un bel po' di storie di blog WordPress che vanno in crash proprio nel momento sbagliato - anche con tutte le corrette ottimizzazioni - e non c'è niente di più sciocco di doversi preoccupare di tecnicismi per il  blog quando esso diventa popolare.
+>Naturalmente, **WordPress non è l'unica applicazione lato server che potrebbe avere problemi quando si riceve una grande quantità di traffico,** ma ci sono in giro un bel po' di storie di blog WordPress che vanno in crash proprio nel momento sbagliato - anche con tutte le corrette ottimizzazioni - e non c'è niente di più sciocco di doversi preoccupare di tecnicismi per il  blog quando esso diventa popolare.
 
 *Passando a Jekyll, però, questo rischio è inesistente:*
 
