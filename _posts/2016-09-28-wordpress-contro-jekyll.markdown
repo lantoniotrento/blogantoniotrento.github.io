@@ -4,8 +4,8 @@ title:  "Wordpress contro Jekyll come mai la formica vince contro il colosso"
 date:   2016-09-28 3:20:25
 categories: feature wordpress jekyll
 tags: featured wordpress blog jekyll blog
-image: /assets/article_images/2016-09-20-benvenuto-sul-blog-di-antonio-trento/brown-idea.jpg
-image2: /assets/article_images/2016-09-20-benvenuto-sul-blog-di-antonio-trento/brown-idea-mobile.jpg
+image: /assets/article_images/2016-09-28-wordpress-contro-jekyll/wordpress-vs-jekyll-boxe.jpg
+image2: /assets/article_images/2016-09-28-wordpress-contro-jekyll/wordpress-vs-jekyll-boxe-mobile.jpg
 ---
 Ho usato Wordpress per gli ultimi 4 anni o più e, lungo il tragitto, è stato un buon compagno. Purtroppo è ancora molto lontano dall'essere perfetto.
 
