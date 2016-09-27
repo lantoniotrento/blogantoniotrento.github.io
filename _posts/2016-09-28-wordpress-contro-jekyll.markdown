@@ -28,9 +28,10 @@ Un generatore di **blog statico**. Ciò significa che, invece di installare soft
 
 Quindi caricare i file generati da qualsiasi server web e, beh, questo è il tuo blog.
 
-Anche se questo potrebbe semplicemente sembrare una geniale alternativa a WordPress, questo approccio statico ha una serie di vantaggi reali su WordPress.
+>Anche se **Jekyll** potrebbe sembrare semplicemente una geniale alternativa a WordPress, questo approccio statico ha una serie di vantaggi reali su WordPress.
 
-Parliamone:
+# Per progetti web con strutture semplici Jekyll è meglio di Wordpress
+
 ## #1 WordPress è eccessivo.
 
 Ad oggi Wordpress è il CMS di gestione contenuti più vasto che ci sia. Puoi fare quasi tutto con esso, da un e-commerce a un piccolo social network. È un ottimo prodotto ma si è evoluto molto più di quel che erano le sue radici e funzioni, e ne possiede troppe molte più di quel che hi bisogno per un semplice blog.
