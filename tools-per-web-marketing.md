@@ -3,7 +3,7 @@ layout: page
 title: I tools per fare web marketing nel 2016
 image: /assets/article_images/2016-09-20-benvenuto-sul-blog-di-antonio-trento/brown-idea.jpg
 image2: /assets/article_images/2016-09-20-benvenuto-sul-blog-di-antonio-trento/brown-idea-mobile.jpg
-permalink: /about/
+permalink: /tools-per-web-marketing/
 ---
 
 In questa pagina descrivo tutti i vari strumenti che uso per progettare, costruire e realizzare campagne di marketing on-line sia per i progetti personali che per clienti. Io personalmente uso ciascuno di questi strumenti ogni volta che mi siedo al mio posto di lavoro.
