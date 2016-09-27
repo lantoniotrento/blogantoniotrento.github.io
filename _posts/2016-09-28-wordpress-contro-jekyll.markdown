@@ -107,7 +107,7 @@ Per tagliare ulteriormente i costi, potresti ospitare il tuo blog su Amazon S3. 
 
 >Wordpress rimane una soluzione valida per un certo tipo di utenza e se hai finito di leggere questo articolo rispondendo a tutti i punti sfavorevoli sopra elencati non valgano il passaggio a Jekyll probabilmente dal tuo punto di vista hai ragione, dovresti continuare ad utilizzare wordpress.
 
-**Non voglio spingere Jekyll per il gusto di farlo.** Tuttavia, credo che un sacco di blogger (e un sacco di lettori di blog) ne gioverebbero molto sia in termini di SEO che in termini di usabilità, velocità e gradevolezza di navigazione del proprio sito passando da un prodotto dinamico ad uno statico.
+**Non voglio spingere Jekyll per il gusto di farlo.** Tuttavia, credo che un sacco di blogger (e un sacco di lettori di blog) ne gioverebbero molto sia in termini di SEO che in termini di usabilità, velocità, gradevolezza di navigazione, sostenibilità e costi del proprio sito passando da un prodotto dinamico ad uno statico.
 
 ### Test
 
