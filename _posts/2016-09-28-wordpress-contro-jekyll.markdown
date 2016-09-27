@@ -9,10 +9,10 @@ image2: /assets/article_images/2016-09-28-wordpress-contro-jekyll/wordpress-vs-j
 ---
 Ho usato Wordpress per gli ultimi 4 anni o più e, lungo il tragitto, è stato un buon compagno. Purtroppo è ancora molto lontano dall'essere perfetto.
 
->Lo ha dimostrato un'esperienza effettuata con un blog ad alto traffico che trattava videogiochi, che mi ha dimostrato:
-- Un blog in wordpress a pieno carico va molto lento
-- La cache non funziona come dovrebbe
-- Sono stato infettato da malware
+***Lo ha dimostrato un'esperienza effettuata con un blog ad alto traffico che trattava videogiochi, che mi ha dimostrato:***
+>- Un blog in wordpress a pieno carico va molto lento
+>- La cache non funziona come dovrebbe
+>- Sono stato infettato da malware
 
 Non che non mi sia preparato per questo genere di problemi, ho installato W3 Total Cache, aggiornato l'hosting con un piano adeguato al mio traffico, installati plugin per tutelare la sicurezza del mio sito e seguito alla lettera le "best practice".
 
