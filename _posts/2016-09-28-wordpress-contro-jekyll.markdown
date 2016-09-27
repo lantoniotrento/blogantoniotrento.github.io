@@ -13,7 +13,7 @@ Ho usato Wordpress per gli ultimi 4 anni o più e, lungo il tragitto, è stato u
 
 > *- Un blog in wordpress a pieno carico va molto lento*
 > *- La cache non funziona come dovrebbe*
- *- Sono stato infettato da malware*
+> *- Sono stato infettato da malware*
 
 Non che non mi sia preparato per questo genere di problemi, ho installato W3 Total Cache, aggiornato l'hosting con un piano adeguato al mio traffico, installati plugin per tutelare la sicurezza del mio sito e seguito alla lettera le "best practice".
 
