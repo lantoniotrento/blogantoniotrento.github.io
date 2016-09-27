@@ -16,11 +16,11 @@ Ho usato Wordpress per gli ultimi 4 anni o più e, lungo il tragitto, è stato u
 
 Non che non mi sia preparato per questo genere di problemi, ho installato W3 Total Cache, aggiornato l'hosting con un piano adeguato al mio traffico, installati plugin per tutelare la sicurezza del mio sito e seguito alla lettera le "best practice".
 
-*Tutti questi accorgimenti presi hanno giovato al mio blog in wordpress?*
+#### *Tutti questi accorgimenti presi hanno giovato al mio blog in wordpress?*
 
 Certo, ma non abbastanza, *i risultati non mi hanno mai soddisfatto appieno guardando i rapporti qualità prezzo*, così quando ho chiuso quel blog ho deciso di rinunciare al vantaggio principale di wordpress, essere in grado di pubblicare contenuti in modo rapido, decidendo di guardare altrove.
 
-*Dopo attente ricerche su web ho scoperto un prodotto interessantissimo: Jekyll.*
+#### *Dopo attente ricerche su web ho scoperto un prodotto interessantissimo: Jekyll.*
 
 ## Jekyll è esattamente quello che mi serviva!
 
