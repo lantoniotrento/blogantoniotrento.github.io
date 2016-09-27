@@ -31,7 +31,6 @@ Quindi caricare i file generati da qualsiasi server web e, beh, questo è il tuo
 Anche se questo potrebbe semplicemente sembrare una geniale alternativa a WordPress, questo approccio statico ha una serie di vantaggi reali su WordPress.
 
 Parliamone:
-
 ## #1 WordPress è eccessivo.
 
 Ad oggi Wordpress è il CMS di gestione contenuti più vasto che ci sia. Puoi fare quasi tutto con esso, da un e-commerce a un piccolo social network. È un ottimo prodotto ma si è evoluto molto più di quel che erano le sue radici e funzioni, e ne possiede troppe molte più di quel che hi bisogno per un semplice blog.
