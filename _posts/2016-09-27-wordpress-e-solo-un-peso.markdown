@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Perché creare un semplice blog in wordpress è diventato solo un peso dopo la creazione si Saas come disqus e sumo me"
+title:  "Perché creare un semplice blog in wordpress è diventato solo un peso"
 date:   2016-09-20 21:20:25
 categories: feature wordpress
 tags: featured wordpress blog
