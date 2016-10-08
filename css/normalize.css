@@ -114,18 +114,6 @@ a:hover {
  * Address variable `h1` font-size and margin within `section` and `article`
  * contexts in Firefox 4+, Safari 5, and Chrome.
  */
-h1 {
-    display: inline-block;
-    position: relative;
-    background: linear-gradient(to bottom, transparent 65%, #FEDD31 65%)no-repeat center left / 0 100%;
-    transition: background-size 0.5s ease
-  }
-  
-  &:hover h1 {
-    background-size: 100% 100%;
-  }
-}
-
 
 h1 {
     font-size: 2em;
