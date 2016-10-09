@@ -7,12 +7,11 @@ permalink: /tools-per-web-marketing/
 ---
 Ciao e benvenuto da [Antonio](/about/) e ho creato questa pagina per condividere con te le mie ultime scoperte per effettuare al meglio web marketing per il tuo business su web.
 
-Qui ho raccolto per te, tutti gli strumenti che reputo utili per iniziare un business su web, 
+Se hai un piccolo business su web e la tua struttura esistente non ti soddisfa o se è da un pò che hai preso in considerazione l'idea di aprire un blog, una rete di siti pubblicitari per promuovere servizi/prodotti o una presenza online come professionista e hai già vagliato un po' di opzioni come Wordpress o Joomla, dovresti continuare a leggere..
 
+Qui ho raccolto per te, tutti gli strumenti che reputo utili per iniziare o migliorare un business su web, crearsi una propria presenza online, per aumentare la sua autorevolezza.
 
-In questa pagina descrivo tutti i vari strumenti che uso per progettare, costruire e realizzare campagne di marketing on-line sia per i progetti personali che per clienti. Io personalmente uso ciascuno di questi strumenti ogni volta che mi siedo al mio posto di lavoro.
-
-Ho pensato che sarebbe stata una risorsa utile per chi vuole iniziare a creare un blog o è alla ricerca di nuovi strumenti che aiutino a scalare il business online.
+Ho pensato che sarebbe stata una risorsa utile per chi ha bisogno di soluzioni e nuovi strumenti che aiutino a scalare il business online, siano versatili, sicuri, cercando di minimizzare i costi mantenendo una qualità elevata, cosa che il mercato richiede fortemente per evitare di buttare tempo e denaro.
 
 Aggiornerò questa pagina periodicamente per includere nuovi strumenti che ho provato e ho aggiunto al mio arsenale 😃 sto anche scrivendo tutorials completi per ciascuno degli strumenti nella lista.
 
@@ -24,18 +23,17 @@ Qui di seguito troverete l’indice dei contenuti per spostarti rapidamente a se
 - Email & costruzione della tua lista contatti
 - La promozione dei contenuti (content marketing)
 
-L'azienda di hosting consigliata
+#L'azienda di hosting consigliata
+Grazie alle nuove tecnologie, le grandi aziende di settore riescono a fornire risorse sempre più efficenti e scalabili, il che si traduce in un minor spreco di risorse che ne deriva un minor costo di gestione che **ne consegue un prezzo inferiore al consumatore finale.**
 
-Ci sono un sacco di società che offrono servizi di hosting; la scelta ricade solo dopo aver valutato alcuni fattori: posizione geografica, tipo di business online, efficienza del sito e competenze tecniche per implementazione dello stesso.
+##Digital Ocean
 
-Se sei all'inizio, scegliere un buon provider di hosting si rivelerà essenziale ai fini di un sano sviluppo del business.
 
-SiteGround
+##Amazon AWS
 
-Io uso SiteGround per quasi ogni sito web che ho sviluppato.
-Perché? Perché è incredibilmente facile da usare, con 1 clic posso installare WordPress in automatico.
 
-Il servizio clienti è eccellente - sia il telefono che chat di supporto (in inglese). E’ l'hosting provider più performante sul mercato in rapporto qualità/prezzo/semplicità di utilizzo. SiteGround mette anche a disposizione un servizio di hosting e-mail che è molto utile.
+
+
 
 È inoltre possibile utilizzare lo stesso account di hosting per più domini, se hai intenzione di creare più siti web. Questa è una grande soluzione di hosting condiviso, conveniente per i siti web di piccole dimensioni.
 
