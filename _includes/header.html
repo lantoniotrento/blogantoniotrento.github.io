@@ -1,10 +1,39 @@
+<!-- NUOVA NAV ANTONIO -->
+
+<div class="outer-menu">
+  <input class="checkbox-toggle" type="checkbox" />
+  <div class="hamburger">
+    <div></div>
+  </div>
+  <div class="menu">
+    <div>
+      <div>
+        <ul>
+          <li><a href="/about">About</a></li>
+          <li><a href="https://rebrand.ly/folio">Products</a></li>
+          <li><a href="/">Blog</a></li>
+          <li><a href="/contatti">Contact</a></li>
+          {% for social in site.social %}
+            {% if social.url %}
+                <li><a class="icon-{{ social.icon }}" href="{{ social.url }}" {% if social.desc %} title="{{ social.desc }}"{% endif %}>
+                  <i class="fa fa-{{ social.icon }}"></i>
+                </a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- FINE NUOVA NAV -->
+
+
 <!-- header start -->
-<!-- The overlay -->
-<div id="myNav" class="overlay">
+<!-- The overlay
+<div id="myNav" class="overlay"> -->
 
-  <!-- Button to close the overlay navigation -->
+  <!-- Button to close the overlay navigation
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-
+-->
   <!-- Overlay content
   <div class="overlay-content">
     <a href="#">About</a>
@@ -12,7 +41,7 @@
     <a href="#">Clients</a>
     <a href="#">Contact</a>
   </div> -->
-  <div class="custom-links overlay-content">
+  <!-- <div class="custom-links overlay-content">
     <a href="/">Home</a>
 
     <a href="/about/">About</a>
@@ -29,14 +58,14 @@
     {% endfor %}
 
   </div>
-</div>
+</div> -->
 
 <!-- Use any element to open/show the overlay navigation menu -->
 
 <!-- <a href="#" onclick="openNav()" class="logo-readium">-->
 
-<span onclick="openNav()" style="text-align: center;" class="logo logo-readium"><i class="fa fa-bars fa-3x" aria-hidden="true"></i></span>
-
+<!-- <span onclick="openNav()" style="text-align: center;" class="logo logo-readium"><i class="fa fa-bars fa-3x" aria-hidden="true"></i></span>
+-->
 <!-- <a href="{{ site.url }}" class="logo-readium"><span class="logo" style="background-image: url({{ site.url }}/assets/images/home-page.png)"></span></a> -->
 
 <!-- header end -->
