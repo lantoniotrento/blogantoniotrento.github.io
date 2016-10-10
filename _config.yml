@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "email:"
 
 email: lantoniotrento@gmail.com
 #blog logo
-logo: "/assets/images/antonio-trento-logo-android-chrome-512x512.png"
+logo: "/assets/images/antonio-trento-avatar-300x300.png"
 # blog cover
 cover: "/assets/images/blog-background-mail.jpg"
 
