@@ -10,13 +10,13 @@ description: > # this means to ignore newlines until "email:"
 
 email: lantoniotrento@gmail.com
 #blog logo
-logo: "/assets/images/antonio-trento-avatar-300x300.png"
+logo: "/assets/images/social-image.png"
 # blog cover
 cover: "/assets/images/blog-background-mail.jpg"
 
 name: 'Antonio Trento'
 author: 'Antonio Trento'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/social-image.jpg"
 
 paginate:	5
 
